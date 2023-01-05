@@ -23,3 +23,5 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 ![Github logo](https://avatars.githubusercontent.com/u/583231?v=4)  
 
 *Texto en cursiva*
+
+:bread:
